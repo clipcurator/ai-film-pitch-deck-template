@@ -33,4 +33,4 @@ Use this guide when the team needs a clearer decision process before production,
 
 ## Related Tool Note
 
-LumenLine can be considered as one example in this workflow category: https://lumenline.ai?from=github_ai-film-pitch-deck-template
+LumenLine can be considered as one example in this workflow category: https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-film-pitch-deck-template

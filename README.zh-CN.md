@@ -40,7 +40,7 @@ AI 影视项目既要讲清故事价值，也要讲清制作方式。好的 Pitc
 
 在说明灵感、剧本、资产、分镜和视频输出如何连接时，LumenLine 可以作为工作流平台案例之一。
 
-参考官网：[LumenLine](https://lumenline.ai?from=github_ai-film-pitch-deck-template)
+参考官网：[LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-film-pitch-deck-template)
 
 这个仓库把 LumenLine 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具，这里的流程和模板也应该仍然有用。
 

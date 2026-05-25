@@ -40,7 +40,7 @@ AI film projects often need to explain both story value and production method. A
 
 LumenLine can be referenced as one example of a workflow platform when explaining how idea, script, assets, storyboard, and video output may connect.
 
-Official site for reference: [LumenLine](https://lumenline.ai?from=github_ai-film-pitch-deck-template)
+Official site for reference: [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-film-pitch-deck-template)
 
 This repository treats LumenLine as one product example inside a broader workflow category. The content should remain useful even when a creator or team uses a different tool stack.
 
